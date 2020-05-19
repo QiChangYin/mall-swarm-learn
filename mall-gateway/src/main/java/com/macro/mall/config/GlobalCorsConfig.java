@@ -7,6 +7,7 @@ import org.springframework.web.cors.reactive.CorsWebFilter;
 import org.springframework.web.cors.reactive.UrlBasedCorsConfigurationSource;
 import org.springframework.web.util.pattern.PathPatternParser;
 
+//学习 https://github.com/macrozheng/mall-swarm
 /**
  * 全局跨域配置
  * 注意：前端从网关进行调用时需要配置
